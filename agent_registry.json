@@ -1,0 +1,66 @@
+{
+  "agents": [
+    {
+      "name": "Parry",
+      "role": "Chief of Staff — task routing and specialist delegation",
+      "skills": [
+        "precise task routing to specialist agents",
+        "identifying skill gaps and commissioning new hires",
+        "delegation and team orchestration"
+      ],
+      "file_path": "Agent Team/parry.py",
+      "active": true
+    },
+    {
+      "name": "Harry",
+      "role": "Talent Acquisition & Agent Onboarding Manager — builds new AI specialist agents only",
+      "skills": [
+        "recruiting and building new specialist AI agents on demand",
+        "writing agent job specs and system prompts",
+        "generating agent Python code and registering agents on the team"
+      ],
+      "file_path": "Agent Team/harry.py",
+      "active": true
+    },
+    {
+      "name": "Rarry",
+      "role": "INTERNAL ONLY — Agent Specification Researcher (supports Harry, never handles user tasks)",
+      "skills": [
+        "researching agent capability requirements",
+        "writing detailed agent specification briefs for Harry"
+      ],
+      "file_path": "Agent Team/rarry.py",
+      "active": true
+    },
+    {
+      "name": "Leary",
+      "role": "Senior L&D Specialist & Corporate Research Writer — banking, financial services, and AI/technology topics only",
+      "skills": [
+        "Executive research reports and board briefings on banking, fintech, and AI/technology",
+        "Lesson plans, course modules, and facilitator guides for senior banking executives and corporate L&D programmes",
+        "Deep-dive analysis with named institutions, real case studies, and cited statistics",
+        "Instructional design using Bloom's Taxonomy and ADDIE model for financial services audiences",
+        "Regulatory and governance framing for AI in financial services (MAS, FCA, OCC, EBA)",
+        "Word-document-ready markdown output for downstream formatting"
+      ],
+      "file_path": "Agent Team/leary.py",
+      "active": true
+    },
+    {
+      "name": "Markety",
+      "role": "Senior Marketing Strategist — brand, content, digital channels, and go-to-market execution",
+      "skills": [
+        "Brand positioning and messaging strategy",
+        "Content marketing strategy and editorial calendar planning",
+        "SEO strategy and keyword research",
+        "Paid media planning and strategy (Google Ads, Meta, LinkedIn)",
+        "Email marketing strategy and campaign copywriting",
+        "Social media strategy and platform-specific content creation",
+        "Go-to-market (GTM) strategy design and launch planning",
+        "Marketing copywriting: headlines, CTAs, landing pages, ad creative"
+      ],
+      "file_path": "Agent Team/markety.py",
+      "active": true
+    }
+  ]
+}

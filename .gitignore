@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Output files
+Owner's Inbox/*.docx
+Owner's Inbox/*.pptx
+Owner's Inbox/*.json
+Owner's Inbox/~$*
+Owner's Inbox/figures/
+Team Inbox/
+
+# Temp/lock files
+~$*
